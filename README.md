@@ -1,4 +1,4 @@
-# CRUDApp
+# Java OOP Project
 Created for academic purposes in Mapua University under course CSS123L in 2023, now archived. Readme ripped from attached PDF report file.
 
 ## Alice Lot & Co. Real Estate Management Program Project
